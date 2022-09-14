@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+header {
+    height: 137px;
+    margin-bottom: 1px;
+    display: block;
+    background-color: brown;
+}
+.cart {
+    width: 20px;
+    height: 20px;
+}
